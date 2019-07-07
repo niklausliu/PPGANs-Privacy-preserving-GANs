@@ -1,6 +1,6 @@
-# Differentially Private GANs
+# PPGANs
 
-<img src="resources/example_worst.png" width="285px"><img src="resources/example_moderate.png" width="285px"><img src="resources/example_best.png" width="285px">
+<img src="资源/example_worst.png" width="285px"><img src="资源/example_moderate.png" width="285px"><img src="资源/example_best.png" width="285px">
 
 MNIST images generated for varying levels of noise.
 
