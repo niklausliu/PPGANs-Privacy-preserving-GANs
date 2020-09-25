@@ -22,7 +22,7 @@ PyYAML==3.13
 scipy==1.1.0
 six==1.11.0
 tensorboard==1.11.0
-tensorflow==1.11.0
+tensorflow==1.15.4
 termcolor==1.1.0
 tornado==5.1.1
 tqdm==4.28.1
