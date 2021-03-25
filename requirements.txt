@@ -18,7 +18,7 @@ protobuf==3.6.1
 pyparsing==2.2.2
 python-dateutil==2.7.5
 pytz==2018.7
-PyYAML==3.13
+PyYAML==5.4
 scipy==1.1.0
 six==1.11.0
 tensorboard==1.11.0
