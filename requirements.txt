@@ -1,6 +1,6 @@
 absl-py==0.6.1
 astor==0.7.1
-certifi==2018.10.15
+certifi==2022.12.7
 cycler==0.10.0
 gast==0.2.0
 grpcio==1.12.1
